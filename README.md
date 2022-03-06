@@ -24,3 +24,8 @@
     <a href="mailto:carloseduardocarneiro928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
   
+<div align="center">
+  
+  ![Snake animation](https://github.com/Kaducc/Kaducc/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
